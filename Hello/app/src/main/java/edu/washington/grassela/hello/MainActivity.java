@@ -1,4 +1,4 @@
-package grassela.edu.washington.edu.hello;
+package edu.washington.grassela.hello;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
